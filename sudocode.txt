@@ -1,0 +1,16 @@
+https://www.python.org/dev/peps/pep-0008/
+
+Object: Food Bin
+  Vars:
+    experationTime = time and date
+    timeRemainingSeconds = float
+    currentColor = [R,G,B]
+    ledPort = int
+
+  Functions:
+    getTimeRemaining(experationTime)
+    UpdateColor(currentColor)
+    GetNewColor(timeRemainingSeconds)
+
+
+function
